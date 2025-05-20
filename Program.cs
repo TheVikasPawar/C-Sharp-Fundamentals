@@ -51,6 +51,8 @@ namespace Program
             // Console.WriteLine("Hello Vikas👋");
 
             //Video 3
+            //Operators
+            //Special Symbols to perform specific operation on variables.
 
         }
     }
