@@ -12,3 +12,4 @@ C:\Users\vikas pawar\OneDrive\Desktop\C Sharp\Revision\obj\Debug\net9.0\refint\R
 C:\Users\vikas pawar\OneDrive\Desktop\C Sharp\Revision\obj\Debug\net9.0\Revision.pdb
 C:\Users\vikas pawar\OneDrive\Desktop\C Sharp\Revision\obj\Debug\net9.0\Revision.genruntimeconfig.cache
 C:\Users\vikas pawar\OneDrive\Desktop\C Sharp\Revision\obj\Debug\net9.0\ref\Revision.dll
+c:\Users\vikas pawar\OneDrive\Desktop\C Sharp\Revision\obj\Debug\net9.0\Revision.sourcelink.json
