@@ -54,6 +54,52 @@ namespace Program
             //Operators
             //Special Symbols to perform specific operation on variables.
 
+            //Arithmetic Operators
+            /*
+            + - * / % 
+            */
+            // int num1 = 10, num2 = 20;
+
+            // Console.WriteLine("---------Arithmetic Operator---------");
+            // Console.WriteLine("Addition is       " + (num1 + num2));
+            // Console.WriteLine("Subtraction is    " + (num1 - num2));
+            // Console.WriteLine("Multiplication is " + (num1 * num2));
+            // Console.WriteLine("Division is       " + (num1 / num2));
+            // Console.WriteLine("Reminder is       " + (num1 % num2));
+            // Console.WriteLine("-----------------------------------------------");
+            // Console.WriteLine("---------Relation (Comparison) Operator---------");
+            // Console.WriteLine("==" + (num1 == num2));
+            // Console.WriteLine("!=" + (num1 != num2));
+            // Console.WriteLine("<" + (num1 < num2));
+            // Console.WriteLine(">" + (num1 > num2));
+            // Console.WriteLine("<=" + (num1 <= num2));
+            // Console.WriteLine(">=" + (num1 >= num2));
+            // Console.WriteLine("-----------------------------------------------");
+            // Console.WriteLine("---------Logical Operators------------");
+            // Console.WriteLine("&&" + (true && false));
+            // Console.WriteLine("||" + (true || false));
+            // Console.WriteLine("!" + (!true));
+            // Console.WriteLine("-----------------------------------------------");
+            // Console.WriteLine("----------Assignment Operator----------");
+            // Console.WriteLine("num1=+5" + (num1 += num2));
+            // Console.WriteLine("num1=-5" + (num1 -= num2));
+            // Console.WriteLine("num1*-5" + (num1 *= num2));
+            // Console.WriteLine("num1=5" + (num1 = 10));
+            // Console.WriteLine("num1*=5" + (num1 *= 10));
+            // Console.WriteLine("num1/=5" + (num1 /= 10));
+            // Console.WriteLine("num1%=5" + (num1 %= 10));
+            // Console.WriteLine("-----------------------------------------------");
+            // Console.WriteLine("----------Unary Opearor----------------");
+            // Console.WriteLine("num1++" + (num1++));
+            // Console.WriteLine("num1--" + (num1--));
+            // Console.WriteLine("+num1" + num1);
+            // Console.WriteLine("num1" + -num1);
+            // Console.WriteLine("-----------------------------------------------");
+            // Console.WriteLine("-----------Ternary Operator-------------");
+            // Console.WriteLine("condition ? true : false", (num1 > num2 ? true : false));
+            // Console.WriteLine("-----------------------------------------------");
+            // Console.WriteLine("-----------Null-Coalescaping Operator-------------");
+            // Console.WriteLine("??");
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikas pawar\\OneDrive\\Desktop\\C Sharp\\Revision\\Revision.csproj": {}
+    "c:\\Users\\vikas pawar\\OneDrive\\Desktop\\C Sharp\\Revision\\Revision.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikas pawar\\OneDrive\\Desktop\\C Sharp\\Revision\\Revision.csproj": {
+    "c:\\Users\\vikas pawar\\OneDrive\\Desktop\\C Sharp\\Revision\\Revision.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikas pawar\\OneDrive\\Desktop\\C Sharp\\Revision\\Revision.csproj",
+        "projectUniqueName": "c:\\Users\\vikas pawar\\OneDrive\\Desktop\\C Sharp\\Revision\\Revision.csproj",
         "projectName": "Revision",
-        "projectPath": "C:\\Users\\vikas pawar\\OneDrive\\Desktop\\C Sharp\\Revision\\Revision.csproj",
+        "projectPath": "c:\\Users\\vikas pawar\\OneDrive\\Desktop\\C Sharp\\Revision\\Revision.csproj",
         "packagesPath": "C:\\Users\\vikas pawar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikas pawar\\OneDrive\\Desktop\\C Sharp\\Revision\\obj\\",
+        "outputPath": "c:\\Users\\vikas pawar\\OneDrive\\Desktop\\C Sharp\\Revision\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
